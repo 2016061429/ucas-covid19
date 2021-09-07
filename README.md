@@ -15,6 +15,7 @@
 有特殊需求的同学可以修改本代码，但请遵守`CC BY-NC-SA 3.0` 许可协议。
 
 
+
 # 方法一： 使用自己的服务器运行
 ## 用法
 1. 点击右上角`star` :)
@@ -185,6 +186,7 @@ $ crontab -e
 - 感谢 [waruto210](https://github.com/IanSmith123/ucas-covid19/pull/44) 添加了对 tg 通知的支持和修复了 smtp 邮件发送者默认不为空的 bug
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">知识共享署名-非商业性使用-相同方式共享 3.0 未本地化版本许可协议</a>进行许可。
+
 
 
 Les1ie
